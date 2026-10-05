@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>100% NFL Hit Rates · Spider Sense Picks</title>
+  <link rel="icon" href="assets/ssp-logo.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <img class="hero-logo" src="assets/ssp-logo.jpg" alt="Spider Sense Picks logo" width="160" height="160">
+      <p class="section-label">Spider Sense Picks</p>
+      <h1>100% NFL Hit Rates</h1>
+      <div class="hero-rule"></div>
+      <p class="hero-sub">Players who have hit the line in every game this season</p>
+      <p class="hero-meta mono" id="updated"></p>
+    </header>
+
+    <section class="panel">
+      <div class="panel-pad">
+        <p class="section-label">Select week</p>
+        <div id="week-picker" class="week-picker"></div>
+      </div>
+    </section>
+
+    <section class="panel" id="tracking"></section>
+
+    <section class="toolbar">
+      <div class="toolbar-row">
+        <input id="search" type="search" placeholder="Search player…" autocomplete="off">
+        <select id="team-filter" aria-label="Filter by team"></select>
+        <select id="status-filter" aria-label="Filter by result">
+          <option value="">All results</option>
+          <option value="hit">Hit</option>
+          <option value="miss">Miss</option>
+          <option value="pending">Pending</option>
+        </select>
+      </div>
+      <div id="market-chips" class="chips"></div>
+    </section>
+
+    <section>
+      <div class="list-actions">
+        <span id="games-count" class="section-label"></span>
+        <button id="toggle-all" class="btn">Expand all</button>
+      </div>
+      <div id="games" class="games"></div>
+    </section>
+
+    <footer class="footer">
+      <p>A 100% hit rate means the player reached the line in every game he has played this season before the selected week: 3 games going into Week 4, 4 games going into Week 5, and so on. It is a streak, not a guarantee for the next game. A game the player missed does not count against a line.</p>
+      <p class="muted">Data from nflverse. Injury filtering is best-effort; always confirm inactives before kickoff.</p>
+    </footer>
+  </main>
+
+  <script src="data/data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
