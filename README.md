@@ -117,7 +117,7 @@ If the season values are `51`, `29` and `194`, the output is `25+ Receiving Yard
 
 ### Updating the data
 
-Double-click **`Update Data.command`** in Finder. It downloads the newest nflverse data, rebuilds every week up to the current one, and opens the website. The first run also sets up the Python environment.
+Double-click **`Update Data.command`** in Finder. It downloads the newest nflverse data, rebuilds every week up to the current one, opens the website, and publishes the new data to the live site at https://cristiano-afonso-da-silva.github.io/nfl-analysis/. The first run also sets up the Python environment.
 
 Or from a terminal:
 
@@ -132,7 +132,7 @@ When to update:
 - **Before kickoff** (e.g. Sunday morning): picks up the latest OUT/IR list so injured players are removed.
 - **After games finish:** nflverse usually posts stats a few hours after a game ends. Updating fills in hit/miss results and, once every game of a week is final, unlocks the next week.
 
-`site/index.html` works when opened directly from disk. To host it, publish the `site` folder as-is (for example on GitHub Pages).
+`site/index.html` works when opened directly from disk. The live site is deployed by `.github/workflows/pages.yml`, which publishes the `site` folder to GitHub Pages on every push to `main` that changes it.
 
 ## Run tests
 

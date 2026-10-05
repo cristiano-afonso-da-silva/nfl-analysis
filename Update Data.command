@@ -16,6 +16,17 @@ echo "Downloading the newest $season NFL data..."
 if .venv/bin/python export_site_data.py --season "$season"; then
   open site/index.html
   echo ""
+  echo "Publishing to GitHub Pages..."
+  git add site/data
+  if git diff --cached --quiet; then
+    echo "No data changes to publish."
+  elif git commit -q -m "Update data $(date '+%Y-%m-%d %H:%M')" && git push -q; then
+    echo "Published. The live site updates in about a minute:"
+    echo "https://cristiano-afonso-da-silva.github.io/nfl-analysis/"
+  else
+    echo "Publishing failed. The local website is still updated."
+  fi
+  echo ""
   echo "Done. The website has been refreshed."
 else
   echo ""
