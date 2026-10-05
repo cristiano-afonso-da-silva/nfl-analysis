@@ -194,7 +194,7 @@ function gameCard(game, data) {
         </span>
         <span class="game-strip">
           <span class="counts">${game.shown.length} lines${counts}</span>
-          <span class="toggle-hint">${isOpen(game) ? "Hide lines" : "Show lines"} <span class="chevron">▾</span></span>
+          <span class="toggle-hint"><span class="label">${isOpen(game) ? "Hide lines" : "Show lines"}</span> <span class="chevron">▾</span></span>
         </span>
       </button>
       <div class="game-body">
