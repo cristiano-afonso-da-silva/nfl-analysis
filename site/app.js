@@ -65,8 +65,8 @@ function renderTracking() {
   const gamesBefore = state.week - 1;
   $("#tracking").innerHTML = `
     <div class="tracking">
-      <p class="section-label">Lines still at 100% going into Week ${state.week}</p>
-      <div class="tracking-number">${current}<span class="of">/ ${start} lines in Week ${first.week} · ${share}%</span></div>
+      <p class="stat-label">Lines still at 100% going into Week ${state.week}</p>
+      <div class="tracking-number stat-value">${current}<span class="of">/ ${start} lines in Week ${first.week} · ${share}%</span></div>
       <p class="tracking-desc">Week ${first.week} started with ${start} lines. Going into Week ${state.week}, ${current} lines have hit in every game the player played this season (Week 1${gamesBefore > 1 ? `–${gamesBefore}` : ""}). A game the player missed doesn't count against his line.</p>
       <div class="progress"><div style="width:${share}%"></div></div>
     </div>`;
@@ -126,7 +126,7 @@ function filteredGames() {
 function resultCell(result) {
   const text = { hit: `✓ ${result.value}`, miss: `✗ ${result.value}`, pending: "Pending", dnp: "—" }[result.status];
   const title = result.status === "dnp" ? ` title="Did not play, doesn't count against the line"` : "";
-  return `<span class="result ${result.status}"${title}>${text}</span>`;
+  return `<span class="result tag ${result.status}"${title}>${text}</span>`;
 }
 
 function propRow(p) {
@@ -162,7 +162,7 @@ function teamColumn(game, team, data) {
           ${props.map(propRow).join("")}
         </div>`).join("")
     : `<div class="empty">No lines at 100%</div>`;
-  return `<div class="team-col"><p class="section-label">${esc(data.teams[team].name)}</p>${body}</div>`;
+  return `<div class="team-col"><p class="stat-label">${esc(data.teams[team].name)}</p>${body}</div>`;
 }
 
 function isOpen(game) {

@@ -7,28 +7,27 @@
   <link rel="icon" href="assets/ssp-logo.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <main class="wrap">
     <header class="hero">
       <img class="hero-logo" src="assets/ssp-logo.jpg" alt="Spider Sense Picks logo" width="160" height="160">
-      <p class="section-label">Spider Sense Picks</p>
-      <h1>100% NFL Hit Rates</h1>
-      <div class="hero-rule"></div>
+      <p class="eyebrow">Spider Sense Picks</p>
+      <h1 class="display-title">100% NFL Hit Rates</h1>
       <p class="hero-sub">Players who have hit the line in every game this season</p>
-      <p class="hero-meta mono" id="updated"></p>
+      <p class="hero-meta" id="updated"></p>
     </header>
 
-    <section class="panel">
+    <section class="panel animate-rise">
       <div class="panel-pad">
-        <p class="section-label">Select week</p>
+        <p class="stat-label">Select week</p>
         <div id="week-picker" class="week-picker"></div>
       </div>
     </section>
 
-    <section class="panel" id="tracking"></section>
+    <section class="glow-card glow-gold animate-rise" id="tracking"></section>
 
     <section class="toolbar">
       <div class="toolbar-row">
@@ -46,7 +45,7 @@
 
     <section>
       <div class="list-actions">
-        <span id="games-count" class="section-label"></span>
+        <span id="games-count" class="stat-label"></span>
         <button id="toggle-all" class="btn">Expand all</button>
       </div>
       <div id="games" class="games"></div>
