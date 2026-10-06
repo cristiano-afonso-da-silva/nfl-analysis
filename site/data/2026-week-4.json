@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "week": 4,
- "generated_at": "2026-10-05T00:22:58+00:00",
+ "generated_at": "2026-10-06T03:43:53+00:00",
  "teams": {
   "ARI": {
    "abbr": "ARI",
@@ -2701,8 +2701,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -2734,8 +2734,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -2767,8 +2767,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -4478,8 +4478,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -4511,8 +4511,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -4544,8 +4544,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -9226,8 +9226,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -9249,8 +9249,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -9272,8 +9272,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -9932,8 +9932,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -11187,8 +11187,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -11220,8 +11220,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -11253,8 +11253,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -12521,8 +12521,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -12544,8 +12544,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -12567,8 +12567,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -12945,8 +12945,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -12978,8 +12978,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -13011,8 +13011,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -13466,8 +13466,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -13499,8 +13499,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -13532,8 +13532,8 @@
       }
      ],
      "result": {
-      "status": "dnp",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -14723,9 +14723,9 @@
    "title": "Lions @ Panthers",
    "gameday": "2026-10-04",
    "gametime": "20:20",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 26,
+   "home_score": 32,
+   "final": true,
    "away_record": "2-1",
    "home_record": "1-2",
    "props": [
@@ -14758,8 +14758,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 329
      }
     },
     {
@@ -14791,8 +14791,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -14824,8 +14824,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 122
      }
     },
     {
@@ -14857,8 +14857,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 1
      }
     },
     {
@@ -14890,8 +14890,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 7
      }
     },
     {
@@ -14923,8 +14923,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     },
     {
@@ -14956,8 +14956,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -14989,8 +14989,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 36
      }
     },
     {
@@ -15022,8 +15022,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 16
      }
     },
     {
@@ -15055,7 +15055,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -15088,7 +15088,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -15121,7 +15121,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -15149,7 +15149,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -15177,7 +15177,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -15210,8 +15210,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -15243,8 +15243,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -15276,8 +15276,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -15309,8 +15309,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 14
      }
     },
     {
@@ -15342,8 +15342,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 192
      }
     },
     {
@@ -15375,8 +15375,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 32
      }
     },
     {
@@ -15408,8 +15408,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -15441,8 +15441,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -15474,8 +15474,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 75
      }
     },
     {
@@ -15507,8 +15507,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 19
      }
     },
     {
@@ -15540,8 +15540,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -15573,8 +15573,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 46
      }
     },
     {
@@ -15606,8 +15606,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 4
      }
     },
     {
@@ -15639,8 +15639,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 31
      }
     },
     {
@@ -15672,8 +15672,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 8
      }
     },
     {
@@ -15705,8 +15705,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -15738,8 +15738,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -15771,8 +15771,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 102
      }
     },
     {
@@ -15804,8 +15804,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 49
      }
     },
     {
@@ -15837,8 +15837,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 412
      }
     },
     {
@@ -15870,8 +15870,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 1
      }
     },
     {
@@ -15903,8 +15903,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -15936,8 +15936,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 84
      }
     },
     {
@@ -15969,8 +15969,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 25
      }
     },
     {
@@ -16002,8 +16002,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -16035,8 +16035,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 17
      }
     },
     {
@@ -16068,8 +16068,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 17
      }
     }
    ]
@@ -16081,9 +16081,9 @@
    "title": "Falcons @ Saints",
    "gameday": "2026-10-05",
    "gametime": "20:15",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 45,
+   "home_score": 24,
+   "final": true,
    "away_record": "1-2",
    "home_record": "1-2",
    "props": [
