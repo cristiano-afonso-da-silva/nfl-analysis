@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "week": 5,
- "generated_at": "2026-10-06T03:43:54+00:00",
+ "generated_at": "2026-10-10T04:49:54+00:00",
  "teams": {
   "ARI": {
    "abbr": "ARI",
@@ -236,9 +236,9 @@
    "title": "Bucs @ Cowboys",
    "gameday": "2026-10-08",
    "gametime": "20:15",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 24,
+   "home_score": 16,
+   "final": true,
    "away_record": "0-4",
    "home_record": "2-2",
    "props": [
@@ -276,8 +276,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 2
      }
     },
     {
@@ -314,8 +314,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 9
      }
     },
     {
@@ -352,8 +352,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 5
      }
     },
     {
@@ -390,8 +390,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 316
      }
     },
     {
@@ -428,8 +428,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -466,8 +466,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 9
      }
     },
     {
@@ -504,8 +504,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 130
      }
     },
     {
@@ -542,8 +542,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 27
      }
     },
     {
@@ -580,8 +580,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -618,8 +618,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 19
      }
     },
     {
@@ -656,8 +656,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 11
      }
     },
     {
@@ -694,8 +694,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 45
      }
     },
     {
@@ -732,8 +732,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -770,8 +770,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 17
      }
     },
     {
@@ -808,8 +808,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -846,8 +846,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 90
      }
     },
     {
@@ -884,8 +884,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 48
      }
     },
     {
@@ -912,41 +912,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0034855",
-     "player": "Baker Mayfield",
-     "team": "TB",
-     "position": "QB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjb8e69jtt1ffqf1afue",
-     "market": "passing_yards",
-     "market_label": "Passing Yards",
-     "threshold": 175,
-     "values": [
-      216,
-      182,
-      217
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -983,8 +950,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 165
      }
     },
     {
@@ -1021,8 +988,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -1059,8 +1026,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 25
      }
     },
     {
@@ -1097,8 +1064,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 11
      }
     },
     {
@@ -1135,8 +1102,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -1173,8 +1140,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 37
      }
     },
     {
@@ -1211,8 +1178,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 19
      }
     },
     {
@@ -1249,8 +1216,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -1287,8 +1254,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 38
      }
     },
     {
@@ -1325,8 +1292,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 21
      }
     },
     {
@@ -1363,8 +1330,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -1401,8 +1368,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -1439,8 +1406,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -1477,8 +1444,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     }
    ]
@@ -9872,7 +9839,8 @@
      "threshold": 15,
      "values": [
       15,
-      36
+      36,
+      23
      ],
      "games": [
       {
@@ -9882,6 +9850,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -9900,7 +9872,8 @@
      "threshold": 1,
      "values": [
       5,
-      1
+      1,
+      5
      ],
      "games": [
       {
@@ -9910,6 +9883,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -9928,7 +9905,8 @@
      "threshold": 5,
      "values": [
       7,
-      5
+      5,
+      35
      ],
      "games": [
       {
@@ -9938,6 +9916,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -9956,7 +9938,8 @@
      "threshold": 5,
      "values": [
       6,
-      5
+      5,
+      17
      ],
      "games": [
       {
@@ -9966,6 +9949,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -9985,7 +9972,8 @@
      "values": [
       10,
       8,
-      9
+      9,
+      8
      ],
      "games": [
       {
@@ -9999,6 +9987,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10018,7 +10010,8 @@
      "values": [
       182,
       86,
-      107
+      107,
+      116
      ],
      "games": [
       {
@@ -10032,6 +10025,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10051,7 +10048,8 @@
      "values": [
       47,
       21,
-      19
+      19,
+      44
      ],
      "games": [
       {
@@ -10065,6 +10063,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10084,7 +10086,8 @@
      "values": [
       7,
       5,
-      3
+      3,
+      6
      ],
      "games": [
       {
@@ -10098,6 +10101,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10117,7 +10124,8 @@
      "values": [
       69,
       64,
-      39
+      39,
+      54
      ],
      "games": [
       {
@@ -10131,6 +10139,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10150,7 +10162,8 @@
      "values": [
       31,
       29,
-      17
+      17,
+      18
      ],
      "games": [
       {
@@ -10164,6 +10177,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10183,7 +10200,8 @@
      "values": [
       3,
       4,
-      8
+      8,
+      6
      ],
      "games": [
       {
@@ -10197,6 +10215,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10216,7 +10238,8 @@
      "values": [
       54,
       66,
-      53
+      53,
+      59
      ],
      "games": [
       {
@@ -10230,6 +10253,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10249,7 +10276,8 @@
      "values": [
       27,
       25,
-      22
+      22,
+      23
      ],
      "games": [
       {
@@ -10263,34 +10291,10 @@
       {
        "season": 2026,
        "week": 3
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0038551",
-     "player": "Kendre Miller",
-     "team": "NO",
-     "position": "RB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vclaomtslw55smksopku",
-     "market": "rushing_yards",
-     "market_label": "Rushing Yards",
-     "threshold": 10,
-     "values": [
-      30,
-      14
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
       },
       {
        "season": 2026,
-       "week": 3
+       "week": 4
       }
      ],
      "result": {
@@ -10442,7 +10446,8 @@
      "values": [
       410,
       252,
-      255
+      255,
+      286
      ],
      "games": [
       {
@@ -10456,6 +10461,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -10475,7 +10484,8 @@
      "values": [
       3,
       1,
-      4
+      4,
+      1
      ],
      "games": [
       {
@@ -10489,6 +10499,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -14866,7 +14880,8 @@
      "values": [
       83,
       72,
-      194
+      194,
+      145
      ],
      "games": [
       {
@@ -14880,6 +14895,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -14895,11 +14914,12 @@
      "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/esii5yb8yn9edboi4mlq",
      "market": "receptions",
      "market_label": "Receptions",
-     "threshold": 2,
+     "threshold": 1,
      "values": [
       8,
       3,
-      2
+      2,
+      1
      ],
      "games": [
       {
@@ -14913,39 +14933,10 @@
       {
        "season": 2026,
        "week": 3
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0038542",
-     "player": "Bijan Robinson",
-     "team": "ATL",
-     "position": "RB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/esii5yb8yn9edboi4mlq",
-     "market": "receiving_yards",
-     "market_label": "Receiving Yards",
-     "threshold": 5,
-     "values": [
-      90,
-      9,
-      19
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
       },
       {
        "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
+       "week": 4
       }
      ],
      "result": {
@@ -14965,7 +14956,8 @@
      "values": [
       31,
       51,
-      50
+      50,
+      62
      ],
      "games": [
       {
@@ -14979,6 +14971,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -14998,7 +14994,8 @@
      "values": [
       2,
       4,
-      9
+      9,
+      5
      ],
      "games": [
       {
@@ -15012,6 +15009,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -15031,7 +15032,8 @@
      "values": [
       29,
       51,
-      194
+      194,
+      96
      ],
      "games": [
       {
@@ -15045,6 +15047,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -15064,7 +15070,8 @@
      "values": [
       21,
       17,
-      68
+      68,
+      37
      ],
      "games": [
       {
@@ -15078,6 +15085,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -15120,7 +15131,8 @@
      "values": [
       1,
       2,
-      1
+      1,
+      2
      ],
      "games": [
       {
@@ -15134,6 +15146,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -15153,7 +15169,8 @@
      "values": [
       19,
       11,
-      11
+      11,
+      54
      ],
      "games": [
       {
@@ -15167,6 +15184,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -15186,7 +15207,8 @@
      "values": [
       19,
       8,
-      11
+      11,
+      31
      ],
      "games": [
       {
@@ -15200,6 +15222,10 @@
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -15215,14 +15241,19 @@
      "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mip4kogkqxwkkya6mvmh",
      "market": "passing_yards",
      "market_label": "Passing Yards",
-     "threshold": 250,
+     "threshold": 200,
      "values": [
-      256
+      256,
+      223
      ],
      "games": [
       {
        "season": 2026,
        "week": 3
+      },
+      {
+       "season": 2026,
+       "week": 4
       }
      ],
      "result": {
@@ -15240,45 +15271,17 @@
      "market_label": "Passing Touchdowns",
      "threshold": 1,
      "values": [
+      1,
       1
      ],
      "games": [
       {
        "season": 2026,
        "week": 3
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0035208",
-     "player": "Olamide Zaccheaus",
-     "team": "ATL",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zsnzd30ysrewgufbv06y",
-     "market": "receptions",
-     "market_label": "Receptions",
-     "threshold": 1,
-     "values": [
-      1,
-      1,
-      2
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
       },
       {
        "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
+       "week": 4
       }
      ],
      "result": {

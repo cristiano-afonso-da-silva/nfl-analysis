@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "week": 4,
- "generated_at": "2026-10-06T03:43:53+00:00",
+ "generated_at": "2026-10-10T04:49:53+00:00",
  "teams": {
   "ARI": {
    "abbr": "ARI",
@@ -16116,8 +16116,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 145
      }
     },
     {
@@ -16149,8 +16149,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 1
      }
     },
     {
@@ -16182,8 +16182,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 2
      }
     },
     {
@@ -16215,8 +16215,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 62
      }
     },
     {
@@ -16248,8 +16248,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -16281,8 +16281,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 96
      }
     },
     {
@@ -16314,8 +16314,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 37
      }
     },
     {
@@ -16337,7 +16337,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -16370,8 +16370,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -16403,8 +16403,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 54
      }
     },
     {
@@ -16436,8 +16436,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 31
      }
     },
     {
@@ -16459,8 +16459,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 223
      }
     },
     {
@@ -16482,8 +16482,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -16515,8 +16515,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -16543,8 +16543,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 23
      }
     },
     {
@@ -16571,8 +16571,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -16599,8 +16599,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 35
      }
     },
     {
@@ -16627,8 +16627,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 17
      }
     },
     {
@@ -16660,8 +16660,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -16693,8 +16693,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 116
      }
     },
     {
@@ -16726,8 +16726,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 44
      }
     },
     {
@@ -16759,8 +16759,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -16792,8 +16792,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 54
      }
     },
     {
@@ -16825,8 +16825,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 18
      }
     },
     {
@@ -16858,8 +16858,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -16891,8 +16891,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 59
      }
     },
     {
@@ -16924,8 +16924,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 23
      }
     },
     {
@@ -16952,8 +16952,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 9
      }
     },
     {
@@ -16985,7 +16985,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -17018,7 +17018,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -17051,7 +17051,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -17084,7 +17084,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -17117,8 +17117,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 286
      }
     },
     {
@@ -17150,8 +17150,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     }
    ]
