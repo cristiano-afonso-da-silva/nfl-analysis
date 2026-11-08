@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "week": 7,
- "generated_at": "2026-10-22T04:05:08+00:00",
+ "generated_at": "2026-11-08T07:40:58+00:00",
  "teams": {
   "ARI": {
    "abbr": "ARI",
@@ -236,9 +236,9 @@
    "title": "Patriots @ Bears",
    "gameday": "2026-10-22",
    "gametime": "20:15",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 24,
+   "home_score": 30,
+   "final": true,
    "away_record": "4-2",
    "home_record": "4-2",
    "props": [
@@ -286,8 +286,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 78
      }
     },
     {
@@ -334,8 +334,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -382,8 +382,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -430,8 +430,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -478,46 +478,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0040236",
-     "player": "Kyle Monangai",
-     "team": "CHI",
-     "position": "RB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sdrq7yje01g4fvsikoga",
-     "market": "rushing_yards",
-     "market_label": "Rushing Yards",
-     "threshold": 30,
-     "values": [
-      100,
-      47,
-      31,
-      146
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -564,8 +526,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -612,8 +574,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 130
      }
     },
     {
@@ -660,8 +622,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 58
      }
     },
     {
@@ -708,8 +670,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -756,8 +718,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 69
      }
     },
     {
@@ -804,8 +766,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 21
      }
     },
     {
@@ -832,8 +794,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -860,8 +822,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 48
      }
     },
     {
@@ -888,8 +850,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 18
      }
     },
     {
@@ -936,8 +898,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -984,8 +946,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 23
      }
     },
     {
@@ -1032,8 +994,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 16
      }
     },
     {
@@ -1080,8 +1042,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 321
      }
     },
     {
@@ -1128,8 +1090,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 26
      }
     },
     {
@@ -1171,8 +1133,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -1219,8 +1181,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     },
     {
@@ -1267,8 +1229,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 71
      }
     },
     {
@@ -1315,8 +1277,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 16
      }
     },
     {
@@ -1338,7 +1300,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -1361,7 +1323,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -1384,7 +1346,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -1422,7 +1384,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -1460,7 +1422,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -1498,7 +1460,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -1546,8 +1508,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 22
      }
     },
     {
@@ -1589,8 +1551,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 9
      }
     }
    ]
@@ -1602,9 +1564,9 @@
    "title": "Steelers @ Saints",
    "gameday": "2026-10-25",
    "gametime": "09:30",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 16,
+   "home_score": 10,
+   "final": true,
    "away_record": "4-2",
    "home_record": "2-4",
    "props": [
@@ -1647,8 +1609,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 5
      }
     },
     {
@@ -1690,8 +1652,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     },
     {
@@ -1738,8 +1700,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -1786,8 +1748,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 56
      }
     },
     {
@@ -1834,8 +1796,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 14
      }
     },
     {
@@ -1882,8 +1844,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -1930,8 +1892,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 54
      }
     },
     {
@@ -1978,8 +1940,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 24
      }
     },
     {
@@ -2011,7 +1973,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -2044,7 +2006,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -2077,7 +2039,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -2110,7 +2072,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -2158,8 +2120,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 212
      }
     },
     {
@@ -2206,8 +2168,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 2
      }
     },
     {
@@ -2254,8 +2216,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 56
      }
     },
     {
@@ -2302,8 +2264,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 51
      }
     },
     {
@@ -2350,8 +2312,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -2398,8 +2360,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 4
      }
     },
     {
@@ -2446,8 +2408,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 4
      }
     },
     {
@@ -2494,8 +2456,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 101
      }
     },
     {
@@ -2542,8 +2504,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -2590,8 +2552,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 36
      }
     },
     {
@@ -2638,8 +2600,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 26
      }
     },
     {
@@ -2671,7 +2633,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -2704,7 +2666,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -2737,7 +2699,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -2785,8 +2747,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -2833,8 +2795,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 20
      }
     },
     {
@@ -2881,8 +2843,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 11
      }
     },
     {
@@ -2914,8 +2876,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 41
      }
     },
     {
@@ -2947,8 +2909,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -2980,8 +2942,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 45
      }
     }
    ]
@@ -2993,9 +2955,9 @@
    "title": "Bengals @ Ravens",
    "gameday": "2026-10-25",
    "gametime": "13:00",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 35,
+   "home_score": 13,
+   "final": true,
    "away_record": "3-2",
    "home_record": "4-2",
    "props": [
@@ -3043,8 +3005,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 45
      }
     },
     {
@@ -3091,8 +3053,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -3114,7 +3076,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -3137,7 +3099,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -3160,7 +3122,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -3188,8 +3150,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -3216,8 +3178,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 25
      }
     },
     {
@@ -3244,122 +3206,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0034796",
-     "player": "Lamar Jackson",
-     "team": "BAL",
-     "position": "QB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eno6s5qzl9grbfbfwhoa",
-     "market": "passing_yards",
-     "market_label": "Passing Yards",
-     "threshold": 175,
-     "values": [
-      324,
-      235,
-      186,
-      222
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0034796",
-     "player": "Lamar Jackson",
-     "team": "BAL",
-     "position": "QB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eno6s5qzl9grbfbfwhoa",
-     "market": "passing_tds",
-     "market_label": "Passing Touchdowns",
-     "threshold": 1,
-     "values": [
-      1,
-      1,
-      2,
-      2
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0034796",
-     "player": "Lamar Jackson",
-     "team": "BAL",
-     "position": "QB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eno6s5qzl9grbfbfwhoa",
-     "market": "rushing_yards",
-     "market_label": "Rushing Yards",
-     "threshold": 20,
-     "values": [
-      40,
-      34,
-      50,
-      20
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 10
      }
     },
     {
@@ -3406,8 +3254,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -3439,8 +3287,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 12
      }
     },
     {
@@ -3482,8 +3330,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -3525,8 +3373,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 137
      }
     },
     {
@@ -3568,8 +3416,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 48
      }
     },
     {
@@ -3596,7 +3444,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -3624,7 +3472,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -3652,7 +3500,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -3695,8 +3543,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 39
      }
     },
     {
@@ -3738,8 +3586,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -3781,8 +3629,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -3824,8 +3672,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -3867,8 +3715,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 62
      }
     },
     {
@@ -3910,8 +3758,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 30
      }
     },
     {
@@ -3953,8 +3801,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 292
      }
     },
     {
@@ -3996,8 +3844,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -4034,7 +3882,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -4077,8 +3925,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -4120,8 +3968,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 148
      }
     },
     {
@@ -4163,8 +4011,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 44
      }
     }
    ]
@@ -4176,9 +4024,9 @@
    "title": "Browns @ Titans",
    "gameday": "2026-10-25",
    "gametime": "13:00",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 27,
+   "home_score": 24,
+   "final": true,
    "away_record": "4-2",
    "home_record": "1-5",
    "props": [
@@ -4201,7 +4049,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -4224,7 +4072,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -4233,7 +4081,7 @@
      "player": "Denzel Boston",
      "team": "CLE",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ybkny6eh5eegq3bqmony",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/loaz6dx5hkl1r5nxi4sg",
      "market": "receptions",
      "market_label": "Receptions",
      "threshold": 1,
@@ -4272,8 +4120,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -4281,7 +4129,7 @@
      "player": "Denzel Boston",
      "team": "CLE",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ybkny6eh5eegq3bqmony",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/loaz6dx5hkl1r5nxi4sg",
      "market": "receiving_yards",
      "market_label": "Receiving Yards",
      "threshold": 15,
@@ -4320,8 +4168,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 27
      }
     },
     {
@@ -4329,7 +4177,7 @@
      "player": "Denzel Boston",
      "team": "CLE",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ybkny6eh5eegq3bqmony",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/loaz6dx5hkl1r5nxi4sg",
      "market": "longest_reception",
      "market_label": "Longest Reception",
      "threshold": 15,
@@ -4368,8 +4216,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 15
      }
     },
     {
@@ -4416,8 +4264,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 19
      }
     },
     {
@@ -4464,8 +4312,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -4512,8 +4360,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -4560,8 +4408,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 129
      }
     },
     {
@@ -4608,8 +4456,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 32
      }
     },
     {
@@ -4651,8 +4499,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 96
      }
     },
     {
@@ -4694,8 +4542,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 1
      }
     },
     {
@@ -4737,8 +4585,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -4780,7 +4628,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -4828,8 +4676,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -4876,8 +4724,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 69
      }
     },
     {
@@ -4924,8 +4772,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 18
      }
     },
     {
@@ -4972,8 +4820,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -5020,8 +4868,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 129
      }
     },
     {
@@ -5068,8 +4916,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -5116,8 +4964,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     },
     {
@@ -5164,8 +5012,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     }
    ]
@@ -5177,9 +5025,9 @@
    "title": "Colts @ Vikings",
    "gameday": "2026-10-25",
    "gametime": "13:00",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 10,
+   "home_score": 16,
+   "final": true,
    "away_record": "2-4",
    "home_record": "5-0",
    "props": [
@@ -5207,7 +5055,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -5235,7 +5083,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -5263,7 +5111,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -5311,8 +5159,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 95
      }
     },
     {
@@ -5359,8 +5207,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -5407,8 +5255,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -5455,8 +5303,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 18
      }
     },
     {
@@ -5503,8 +5351,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 13
      }
     },
     {
@@ -5512,7 +5360,7 @@
      "player": "Keenan Allen",
      "team": "IND",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ri267r6lzfwarh89hsn6",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ngk2iwpbmdeivvrpwk9h",
      "market": "receptions",
      "market_label": "Receptions",
      "threshold": 1,
@@ -5546,8 +5394,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -5555,7 +5403,7 @@
      "player": "Keenan Allen",
      "team": "IND",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ri267r6lzfwarh89hsn6",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ngk2iwpbmdeivvrpwk9h",
      "market": "receiving_yards",
      "market_label": "Receiving Yards",
      "threshold": 5,
@@ -5589,8 +5437,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 31
      }
     },
     {
@@ -5598,7 +5446,7 @@
      "player": "Keenan Allen",
      "team": "IND",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ri267r6lzfwarh89hsn6",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ngk2iwpbmdeivvrpwk9h",
      "market": "longest_reception",
      "market_label": "Longest Reception",
      "threshold": 5,
@@ -5632,8 +5480,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 13
      }
     },
     {
@@ -5641,7 +5489,7 @@
      "player": "Pharaoh Brown",
      "team": "IND",
      "position": "TE",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hfgg6gr7aiyzmdzh4iww",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/om7ua44xh4sxa41ncwjk",
      "market": "receptions",
      "market_label": "Receptions",
      "threshold": 1,
@@ -5655,8 +5503,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -5664,7 +5512,7 @@
      "player": "Pharaoh Brown",
      "team": "IND",
      "position": "TE",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hfgg6gr7aiyzmdzh4iww",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/om7ua44xh4sxa41ncwjk",
      "market": "receiving_yards",
      "market_label": "Receiving Yards",
      "threshold": 5,
@@ -5678,8 +5526,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -5687,7 +5535,7 @@
      "player": "Pharaoh Brown",
      "team": "IND",
      "position": "TE",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hfgg6gr7aiyzmdzh4iww",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/om7ua44xh4sxa41ncwjk",
      "market": "longest_reception",
      "market_label": "Longest Reception",
      "threshold": 5,
@@ -5701,137 +5549,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0040128",
-     "player": "Tyler Warren",
-     "team": "IND",
-     "position": "TE",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ggbgv9okpladwqzth5l5",
-     "market": "receptions",
-     "market_label": "Receptions",
-     "threshold": 3,
-     "values": [
-      3,
-      6,
-      9,
-      5,
-      7
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0040128",
-     "player": "Tyler Warren",
-     "team": "IND",
-     "position": "TE",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ggbgv9okpladwqzth5l5",
-     "market": "receiving_yards",
-     "market_label": "Receiving Yards",
-     "threshold": 10,
-     "values": [
-      13,
-      21,
-      55,
-      41,
-      83
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0040128",
-     "player": "Tyler Warren",
-     "team": "IND",
-     "position": "TE",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ggbgv9okpladwqzth5l5",
-     "market": "longest_reception",
-     "market_label": "Longest Reception",
-     "threshold": 5,
-     "values": [
-      9,
-      8,
-      15,
-      13,
-      29
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -5853,8 +5572,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -5876,8 +5595,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -5899,8 +5618,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -5942,8 +5661,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 26
      }
     },
     {
@@ -5965,8 +5684,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -5988,8 +5707,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -6011,8 +5730,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -6034,8 +5753,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 68
      }
     },
     {
@@ -6057,8 +5776,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -6095,8 +5814,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -6133,8 +5852,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 44
      }
     },
     {
@@ -6171,8 +5890,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 21
      }
     },
     {
@@ -6214,8 +5933,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -6257,8 +5976,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 35
      }
     },
     {
@@ -6300,8 +6019,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 22
      }
     }
    ]
@@ -6313,9 +6032,9 @@
    "title": "Dolphins @ Jets",
    "gameday": "2026-10-25",
    "gametime": "13:00",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 28,
+   "home_score": 25,
+   "final": true,
    "away_record": "0-5",
    "home_record": "2-4",
    "props": [
@@ -6343,8 +6062,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -6371,8 +6090,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 70
      }
     },
     {
@@ -6399,8 +6118,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 63
      }
     },
     {
@@ -6432,7 +6151,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -6475,8 +6194,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -6518,8 +6237,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 27
      }
     },
     {
@@ -6561,8 +6280,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 12
      }
     },
     {
@@ -6589,8 +6308,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -6617,8 +6336,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -6645,8 +6364,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -6678,7 +6397,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -6711,7 +6430,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -6744,7 +6463,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -6777,7 +6496,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -6825,8 +6544,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 2
      }
     },
     {
@@ -6873,8 +6592,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 26
      }
     },
     {
@@ -6921,8 +6640,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 19
      }
     },
     {
@@ -6949,8 +6668,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -6977,8 +6696,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 115
      }
     },
     {
@@ -7005,8 +6724,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 60
      }
     },
     {
@@ -7033,8 +6752,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -7061,8 +6780,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -7089,8 +6808,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     }
    ]
@@ -7102,9 +6821,9 @@
    "title": "Giants @ Texans",
    "gameday": "2026-10-25",
    "gametime": "13:00",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 27,
+   "home_score": 21,
+   "final": true,
    "away_record": "3-2-1",
    "home_record": "2-4",
    "props": [
@@ -7152,8 +6871,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -7200,8 +6919,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 45
      }
     },
     {
@@ -7248,51 +6967,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0035685",
-     "player": "David Montgomery",
-     "team": "HOU",
-     "position": "RB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/npagyuku5zvrnu9q3jvn",
-     "market": "rushing_yards",
-     "market_label": "Rushing Yards",
-     "threshold": 10,
-     "values": [
-      60,
-      10,
-      33,
-      24,
-      11
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 17
      }
     },
     {
@@ -7339,8 +7015,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -7362,7 +7038,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -7385,7 +7061,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -7408,7 +7084,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -7431,7 +7107,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -7454,7 +7130,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -7502,8 +7178,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -7550,8 +7226,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": -3
      }
     },
     {
@@ -7598,8 +7274,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 1
      }
     },
     {
@@ -7646,8 +7322,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -7694,8 +7370,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 25
      }
     },
     {
@@ -7742,8 +7418,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 25
      }
     },
     {
@@ -7780,8 +7456,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 2
      }
     },
     {
@@ -7818,8 +7494,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 6
      }
     },
     {
@@ -7856,8 +7532,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 4
      }
     },
     {
@@ -7904,8 +7580,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -7952,8 +7628,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 17
      }
     },
     {
@@ -8000,8 +7676,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 12
      }
     },
     {
@@ -8048,8 +7724,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -8096,8 +7772,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 12
      }
     },
     {
@@ -8144,8 +7820,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 8
      }
     },
     {
@@ -8192,8 +7868,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -8240,8 +7916,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 83
      }
     },
     {
@@ -8288,8 +7964,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 47
      }
     },
     {
@@ -8336,8 +8012,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     }
    ]
@@ -8349,9 +8025,9 @@
    "title": "49ers @ Falcons",
    "gameday": "2026-10-25",
    "gametime": "13:00",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 20,
+   "home_score": 29,
+   "final": true,
    "away_record": "6-0",
    "home_record": "2-4",
    "props": [
@@ -8399,8 +8075,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 63
      }
     },
     {
@@ -8447,8 +8123,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -8495,8 +8171,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     },
     {
@@ -8543,8 +8219,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 66
      }
     },
     {
@@ -8591,8 +8267,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 21
      }
     },
     {
@@ -8614,7 +8290,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -8662,8 +8338,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -8710,8 +8386,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 6
      }
     },
     {
@@ -8758,8 +8434,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -8796,8 +8472,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 213
      }
     },
     {
@@ -8834,8 +8510,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -8882,8 +8558,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 288
      }
     },
     {
@@ -8930,8 +8606,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -8978,8 +8654,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 39
      }
     },
     {
@@ -9026,8 +8702,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -9074,8 +8750,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 61
      }
     },
     {
@@ -9122,51 +8798,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0035719",
-     "player": "Deebo Samuel Sr.",
-     "team": "SF",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ntgyhqg6hq7fanhhsqiw",
-     "market": "receiving_yards",
-     "market_label": "Receiving Yards",
-     "threshold": 20,
-     "values": [
-      48,
-      31,
-      80,
-      26,
-      21
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 24
      }
     },
     {
@@ -9193,7 +8826,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -9221,7 +8854,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -9249,7 +8882,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -9297,8 +8930,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -9345,8 +8978,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 88
      }
     },
     {
@@ -9393,8 +9026,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 21
      }
     },
     {
@@ -9441,152 +9074,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0031408",
-     "player": "Mike Evans",
-     "team": "SF",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zc4ujpmndyxrbiyyjomz",
-     "market": "receptions",
-     "market_label": "Receptions",
-     "threshold": 3,
-     "values": [
-      6,
-      3,
-      3,
-      5,
-      7,
-      3
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0031408",
-     "player": "Mike Evans",
-     "team": "SF",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zc4ujpmndyxrbiyyjomz",
-     "market": "receiving_yards",
-     "market_label": "Receiving Yards",
-     "threshold": 30,
-     "values": [
-      49,
-      54,
-      34,
-      76,
-      113,
-      94
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0031408",
-     "player": "Mike Evans",
-     "team": "SF",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zc4ujpmndyxrbiyyjomz",
-     "market": "longest_reception",
-     "market_label": "Longest Reception",
-     "threshold": 10,
-     "values": [
-      13,
-      27,
-      82,
-      24,
-      28,
-      54
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 63
      }
     }
    ]
@@ -9598,9 +9087,9 @@
    "title": "Bucs @ Panthers",
    "gameday": "2026-10-25",
    "gametime": "13:00",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 43,
+   "home_score": 13,
+   "final": true,
    "away_record": "1-5",
    "home_record": "3-2",
    "props": [
@@ -9643,8 +9132,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 163
      }
     },
     {
@@ -9686,8 +9175,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -9729,8 +9218,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 33
      }
     },
     {
@@ -9772,8 +9261,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -9810,8 +9299,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 1
      }
     },
     {
@@ -9848,8 +9337,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 9
      }
     },
     {
@@ -9886,8 +9375,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 9
      }
     },
     {
@@ -9914,7 +9403,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -9942,7 +9431,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -9985,8 +9474,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -10028,8 +9517,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 40
      }
     },
     {
@@ -10071,8 +9560,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 12
      }
     },
     {
@@ -10114,8 +9603,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -10147,8 +9636,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 64
      }
     },
     {
@@ -10195,8 +9684,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 106
      }
     },
     {
@@ -10243,8 +9732,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -10291,8 +9780,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -10339,8 +9828,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 27
      }
     },
     {
@@ -10387,152 +9876,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0040129",
-     "player": "Emeka Egbuka",
-     "team": "TB",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z224kbzs62rjuykc0vha",
-     "market": "receptions",
-     "market_label": "Receptions",
-     "threshold": 2,
-     "values": [
-      5,
-      3,
-      5,
-      2,
-      6,
-      7
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0040129",
-     "player": "Emeka Egbuka",
-     "team": "TB",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z224kbzs62rjuykc0vha",
-     "market": "receiving_yards",
-     "market_label": "Receiving Yards",
-     "threshold": 10,
-     "values": [
-      63,
-      16,
-      62,
-      13,
-      38,
-      48
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0040129",
-     "player": "Emeka Egbuka",
-     "team": "TB",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z224kbzs62rjuykc0vha",
-     "market": "longest_reception",
-     "market_label": "Longest Reception",
-     "threshold": 5,
-     "values": [
-      17,
-      7,
-      21,
-      8,
-      21,
-      16
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 9
      }
     },
     {
@@ -10579,8 +9924,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     }
    ]
@@ -10592,55 +9937,12 @@
    "title": "Broncos @ Cardinals",
    "gameday": "2026-10-25",
    "gametime": "16:05",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 30,
+   "home_score": 16,
+   "final": true,
    "away_record": "4-2",
    "home_record": "2-4",
    "props": [
-    {
-     "player_id": "00-0041027",
-     "player": "Jeremiyah Love",
-     "team": "ARI",
-     "position": "RB",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b12gtjsylmql5v7iyyla",
-     "market": "rushing_yards",
-     "market_label": "Rushing Yards",
-     "threshold": 20,
-     "values": [
-      41,
-      29,
-      90,
-      63,
-      22
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
     {
      "player_id": "00-0038559",
      "player": "Michael Wilson",
@@ -10685,8 +9987,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -10733,8 +10035,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 55
      }
     },
     {
@@ -10781,8 +10083,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 16
      }
     },
     {
@@ -10829,8 +10131,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 10
      }
     },
     {
@@ -10877,8 +10179,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 111
      }
     },
     {
@@ -10925,8 +10227,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 27
      }
     },
     {
@@ -10973,8 +10275,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -11021,8 +10323,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 30
      }
     },
     {
@@ -11069,8 +10371,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 22
      }
     },
     {
@@ -11117,8 +10419,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -11165,8 +10467,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 23
      }
     },
     {
@@ -11213,8 +10515,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     }
    ]
@@ -11226,9 +10528,9 @@
    "title": "Packers @ Lions",
    "gameday": "2026-10-25",
    "gametime": "16:25",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 17,
+   "home_score": 20,
+   "final": true,
    "away_record": "4-2",
    "home_record": "3-2",
    "props": [
@@ -11271,8 +10573,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 9
      }
     },
     {
@@ -11314,8 +10616,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 153
      }
     },
     {
@@ -11357,8 +10659,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 40
      }
     },
     {
@@ -11400,8 +10702,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 116
      }
     },
     {
@@ -11443,8 +10745,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -11486,8 +10788,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 27
      }
     },
     {
@@ -11529,8 +10831,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 15
      }
     },
     {
@@ -11572,8 +10874,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -11615,8 +10917,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -11658,8 +10960,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 91
      }
     },
     {
@@ -11701,8 +11003,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 30
      }
     },
     {
@@ -11744,8 +11046,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 303
      }
     },
     {
@@ -11787,8 +11089,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -11830,8 +11132,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 1
      }
     },
     {
@@ -11873,8 +11175,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 18
      }
     },
     {
@@ -11916,8 +11218,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 18
      }
     },
     {
@@ -11964,8 +11266,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -12012,8 +11314,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 57
      }
     },
     {
@@ -12060,8 +11362,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 28
      }
     },
     {
@@ -12088,7 +11390,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -12136,8 +11438,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -12184,8 +11486,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 20
      }
     },
     {
@@ -12232,8 +11534,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -12280,8 +11582,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 39
      }
     },
     {
@@ -12328,8 +11630,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 22
      }
     },
     {
@@ -12356,8 +11658,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -12384,8 +11686,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -12412,8 +11714,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -12435,8 +11737,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 3
      }
     },
     {
@@ -12458,8 +11760,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 47
      }
     },
     {
@@ -12481,8 +11783,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 27
      }
     },
     {
@@ -12529,8 +11831,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -12577,8 +11879,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 48
      }
     },
     {
@@ -12625,8 +11927,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 22
      }
     }
    ]
@@ -12638,9 +11940,9 @@
    "title": "Rams @ Raiders",
    "gameday": "2026-10-25",
    "gametime": "16:25",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 35,
+   "home_score": 21,
+   "final": true,
    "away_record": "2-4",
    "home_record": "3-3",
    "props": [
@@ -12688,8 +11990,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 93
      }
     },
     {
@@ -12736,7 +12038,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -12784,7 +12086,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -12832,7 +12134,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -12880,8 +12182,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 99
      }
     },
     {
@@ -12928,8 +12230,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -12976,8 +12278,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 22
      }
     },
     {
@@ -13024,8 +12326,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 14
      }
     },
     {
@@ -13062,8 +12364,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -13100,8 +12402,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 68
      }
     },
     {
@@ -13138,8 +12440,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 13
      }
     },
     {
@@ -13161,7 +12463,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -13184,7 +12486,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -13207,7 +12509,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -13230,7 +12532,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -13239,7 +12541,7 @@
      "player": "Tutu Atwell",
      "team": "LA",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tl2aa9ucbtcwhr1yk3tf",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u3yymljy6ixexp6p8jop",
      "market": "receptions",
      "market_label": "Receptions",
      "threshold": 1,
@@ -13263,8 +12565,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -13311,8 +12613,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 15
      }
     },
     {
@@ -13359,8 +12661,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 8
      }
     },
     {
@@ -13407,8 +12709,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 61
      }
     },
     {
@@ -13455,8 +12757,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 22
      }
     },
     {
@@ -13493,8 +12795,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 6
      }
     },
     {
@@ -13531,8 +12833,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 73
      }
     },
     {
@@ -13569,8 +12871,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 18
      }
     },
     {
@@ -13578,7 +12880,7 @@
      "player": "Deven Thompkins",
      "team": "LV",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hohgyaldfuylxqwnb8i2",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cpwvsg6gi5iupwwgryrp",
      "market": "receptions",
      "market_label": "Receptions",
      "threshold": 1,
@@ -13592,7 +12894,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -13601,7 +12903,7 @@
      "player": "Deven Thompkins",
      "team": "LV",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hohgyaldfuylxqwnb8i2",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cpwvsg6gi5iupwwgryrp",
      "market": "receiving_yards",
      "market_label": "Receiving Yards",
      "threshold": 5,
@@ -13615,7 +12917,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -13624,7 +12926,7 @@
      "player": "Deven Thompkins",
      "team": "LV",
      "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hohgyaldfuylxqwnb8i2",
+     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cpwvsg6gi5iupwwgryrp",
      "market": "longest_reception",
      "market_label": "Longest Reception",
      "threshold": 5,
@@ -13638,7 +12940,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -13686,8 +12988,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -13734,8 +13036,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -13782,8 +13084,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -13830,8 +13132,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 103
      }
     },
     {
@@ -13878,8 +13180,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 41
      }
     }
    ]
@@ -13891,9 +13193,9 @@
    "title": "Chiefs @ Seahawks",
    "gameday": "2026-10-25",
    "gametime": "20:20",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 3,
+   "home_score": 20,
+   "final": true,
    "away_record": "5-0",
    "home_record": "3-3",
    "props": [
@@ -13916,8 +13218,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     },
     {
@@ -13939,8 +13241,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 3
      }
     },
     {
@@ -13962,8 +13264,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 3
      }
     },
     {
@@ -14005,8 +13307,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 36
      }
     },
     {
@@ -14048,8 +13350,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -14091,8 +13393,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 165
      }
     },
     {
@@ -14134,8 +13436,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -14177,8 +13479,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 44
      }
     },
     {
@@ -14220,8 +13522,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 19
      }
     },
     {
@@ -14263,8 +13565,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -14306,8 +13608,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 11
      }
     },
     {
@@ -14349,8 +13651,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     },
     {
@@ -14397,8 +13699,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -14445,8 +13747,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 42
      }
     },
     {
@@ -14493,8 +13795,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 19
      }
     },
     {
@@ -14541,8 +13843,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -14589,8 +13891,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 20
      }
     },
     {
@@ -14637,8 +13939,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 11
      }
     },
     {
@@ -14665,7 +13967,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -14693,7 +13995,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -14726,7 +14028,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -14759,7 +14061,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -14792,7 +14094,7 @@
       }
      ],
      "result": {
-      "status": "pending",
+      "status": "dnp",
       "value": null
      }
     },
@@ -14840,8 +14142,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 9
      }
     },
     {
@@ -14888,8 +14190,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 150
      }
     },
     {
@@ -14936,8 +14238,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 33
      }
     },
     {
@@ -14984,8 +14286,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     }
    ]
@@ -14997,9 +14299,9 @@
    "title": "Cowboys @ Eagles",
    "gameday": "2026-10-26",
    "gametime": "20:15",
-   "away_score": null,
-   "home_score": null,
-   "final": false,
+   "away_score": 38,
+   "home_score": 21,
+   "final": true,
    "away_record": "2-4",
    "home_record": "2-4",
    "props": [
@@ -15047,8 +14349,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -15095,8 +14397,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 74
      }
     },
     {
@@ -15143,8 +14445,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 30
      }
     },
     {
@@ -15191,8 +14493,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 212
      }
     },
     {
@@ -15239,8 +14541,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 3
      }
     },
     {
@@ -15287,8 +14589,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -15335,8 +14637,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 57
      }
     },
     {
@@ -15383,8 +14685,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 21
      }
     },
     {
@@ -15431,8 +14733,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -15479,8 +14781,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -15527,8 +14829,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -15575,8 +14877,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 155
      }
     },
     {
@@ -15623,8 +14925,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -15671,8 +14973,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -15719,8 +15021,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 4
      }
     },
     {
@@ -15767,8 +15069,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 70
      }
     },
     {
@@ -15815,8 +15117,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 35
      }
     },
     {
@@ -15853,8 +15155,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 5
      }
     },
     {
@@ -15881,8 +15183,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 47
      }
     },
     {
@@ -15909,266 +15211,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0036912",
-     "player": "DeVonta Smith",
-     "team": "PHI",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k724kq3hyv7jc0y9s03x",
-     "market": "receptions",
-     "market_label": "Receptions",
-     "threshold": 3,
-     "values": [
-      3,
-      10,
-      6,
-      7
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0036912",
-     "player": "DeVonta Smith",
-     "team": "PHI",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k724kq3hyv7jc0y9s03x",
-     "market": "receiving_yards",
-     "market_label": "Receiving Yards",
-     "threshold": 50,
-     "values": [
-      53,
-      117,
-      65,
-      75
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0036912",
-     "player": "DeVonta Smith",
-     "team": "PHI",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k724kq3hyv7jc0y9s03x",
-     "market": "longest_reception",
-     "market_label": "Longest Reception",
-     "threshold": 15,
-     "values": [
-      31,
-      22,
-      30,
-      19
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0038393",
-     "player": "Dontayvion Wicks",
-     "team": "PHI",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v1lt8kpvkn0qw5elyaoz",
-     "market": "receptions",
-     "market_label": "Receptions",
-     "threshold": 2,
-     "values": [
-      2,
-      5,
-      2,
-      3,
-      5,
-      2
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0038393",
-     "player": "Dontayvion Wicks",
-     "team": "PHI",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v1lt8kpvkn0qw5elyaoz",
-     "market": "receiving_yards",
-     "market_label": "Receiving Yards",
-     "threshold": 15,
-     "values": [
-      73,
-      74,
-      32,
-      18,
-      63,
-      24
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
-     }
-    },
-    {
-     "player_id": "00-0038393",
-     "player": "Dontayvion Wicks",
-     "team": "PHI",
-     "position": "WR",
-     "headshot": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v1lt8kpvkn0qw5elyaoz",
-     "market": "longest_reception",
-     "market_label": "Longest Reception",
-     "threshold": 5,
-     "values": [
-      64,
-      27,
-      19,
-      7,
-      19,
-      17
-     ],
-     "games": [
-      {
-       "season": 2026,
-       "week": 1
-      },
-      {
-       "season": 2026,
-       "week": 2
-      },
-      {
-       "season": 2026,
-       "week": 3
-      },
-      {
-       "season": 2026,
-       "week": 4
-      },
-      {
-       "season": 2026,
-       "week": 5
-      },
-      {
-       "season": 2026,
-       "week": 6
-      }
-     ],
-     "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 1
      }
     },
     {
@@ -16215,8 +15259,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 7
      }
     },
     {
@@ -16238,8 +15282,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "miss",
+      "value": 0
      }
     },
     {
@@ -16276,8 +15320,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 2
      }
     },
     {
@@ -16299,8 +15343,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 211
      }
     },
     {
@@ -16322,8 +15366,8 @@
       }
      ],
      "result": {
-      "status": "pending",
-      "value": null
+      "status": "hit",
+      "value": 1
      }
     }
    ]
